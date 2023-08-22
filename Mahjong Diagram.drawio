@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T09:13:47.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="1m7Z5z-5dxd6izBxBils" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T09:41:46.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="B-xlwB0hBME9LfzmSAli" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2358" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,10 +52,10 @@
         <mxCell id="XQg5VKVALIr8z_BU0Swp-19" value="DeclareSequence() bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="j-Y8bRtDtjEa4uRJ_ZTw-56">
           <mxGeometry y="268" width="310" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="XQg5VKVALIr8z_BU0Swp-22" value="DeclarePair() bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="j-Y8bRtDtjEa4uRJ_ZTw-56">
+        <mxCell id="XQg5VKVALIr8z_BU0Swp-22" value="DeclareTriplet() bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="j-Y8bRtDtjEa4uRJ_ZTw-56">
           <mxGeometry y="294" width="310" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="XQg5VKVALIr8z_BU0Swp-23" value="DeclarePair() bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="j-Y8bRtDtjEa4uRJ_ZTw-56">
+        <mxCell id="XQg5VKVALIr8z_BU0Swp-23" value="DeclareQuad() bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="j-Y8bRtDtjEa4uRJ_ZTw-56">
           <mxGeometry y="320" width="310" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XQg5VKVALIr8z_BU0Swp-20" value="DiscardTile() void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="j-Y8bRtDtjEa4uRJ_ZTw-56">
