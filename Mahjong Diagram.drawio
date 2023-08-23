@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T09:14:04.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="8RkOnmt35_sKKeX7xKns" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T09:15:27.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="zDWJvu2QLZYOGaUA64gt" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3171" dy="711" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2384" dy="342" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -274,7 +274,7 @@
           <mxGeometry y="104" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6L6V6qCQOdQOiq5EN29G-41" value="SpecialCombination" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1540" y="352" width="250" height="86" as="geometry" />
+          <mxGeometry x="1548" y="352" width="250" height="86" as="geometry" />
         </mxCell>
         <mxCell id="6L6V6qCQOdQOiq5EN29G-42" value="List&amp;lt;HandCombination&amp;gt; CombinationsList" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="6L6V6qCQOdQOiq5EN29G-41" vertex="1">
           <mxGeometry y="26" width="250" height="26" as="geometry" />
@@ -300,7 +300,7 @@
         <mxCell id="2utEfWMuSli4GeWRb3pw-21" value="Dictionary&amp;lt;IPlayer, PlayerDiscardedTileDict&amp;gt; PlayerDeclaredTileDict" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2utEfWMuSli4GeWRb3pw-5">
           <mxGeometry y="78" width="400" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="2utEfWMuSli4GeWRb3pw-8" value="CheckCombination" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2utEfWMuSli4GeWRb3pw-5">
+        <mxCell id="2utEfWMuSli4GeWRb3pw-8" value="CheckCombination(PlayerHandList, CombinationList)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2utEfWMuSli4GeWRb3pw-5">
           <mxGeometry y="104" width="400" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2utEfWMuSli4GeWRb3pw-14" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j-Y8bRtDtjEa4uRJ_ZTw-63">
