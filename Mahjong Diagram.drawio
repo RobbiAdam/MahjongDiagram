@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T07:34:28.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.54" etag="ALW53kUjO08ambMmRJPF" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-25T07:36:31.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.54" etag="sDDwBIjayjH0-xupSHUK" version="21.6.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1294" dy="609" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,13 +43,13 @@
         <mxCell id="6L6V6qCQOdQOiq5EN29G-1" value="+&amp;nbsp;CheckYaku(PlayerHandsDict): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="j-Y8bRtDtjEa4uRJ_ZTw-56" vertex="1">
           <mxGeometry y="294" width="526" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bTUQG4hRqjsF7mNI0KwY-7" value="+&amp;nbsp;CheckAvailbleTile(PlayerHandsDict, PlayerDeclaredTileDict,PlayerDiscardedTileDict): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="j-Y8bRtDtjEa4uRJ_ZTw-56" vertex="1">
+        <mxCell id="XQg5VKVALIr8z_BU0Swp-21" value="+&amp;nbsp;DrawTile(): PlayerInfo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="j-Y8bRtDtjEa4uRJ_ZTw-56" vertex="1">
           <mxGeometry y="320" width="526" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="XQg5VKVALIr8z_BU0Swp-21" value="+&amp;nbsp;DrawTile(IPlayer, IMahjongTile): PlayerHandsDict" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="j-Y8bRtDtjEa4uRJ_ZTw-56" vertex="1">
+        <mxCell id="bTUQG4hRqjsF7mNI0KwY-7" value="+&amp;nbsp;CheckAvailbleTile(): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="j-Y8bRtDtjEa4uRJ_ZTw-56" vertex="1">
           <mxGeometry y="346" width="526" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="XQg5VKVALIr8z_BU0Swp-20" value="+&amp;nbsp;DiscardTile(IPlayer, IMahjongTile): DiscardedTileDict" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="j-Y8bRtDtjEa4uRJ_ZTw-56" vertex="1">
+        <mxCell id="XQg5VKVALIr8z_BU0Swp-20" value="+&amp;nbsp;DiscardTile(): PlayerInfo&lt;br&gt;&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="j-Y8bRtDtjEa4uRJ_ZTw-56" vertex="1">
           <mxGeometry y="372" width="526" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ie9PUeDw6mzHgXLe_47Y-3" value="+&amp;nbsp;GetScores(IPlayer) int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="j-Y8bRtDtjEa4uRJ_ZTw-56" vertex="1">
